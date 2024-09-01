@@ -2,18 +2,13 @@
 
 ## Project Overview
 
-In this project, you will apply the skills acquired in the data wrangling course to gather and wrangle real-world data using two datasets of your choice. The main tasks include:
+In this project, i gathered and wrangled real-world data using two datasets. The main tasks include:
 
 1. Retrieving and extracting the data.
 2. Assessing the data programmatically and visually for quality and structure.
 3. Implementing a cleaning strategy for the data.
 4. Storing the updated data into a selected database or data store.
 5. Combining the data and answering a research question using the datasets.
-
-Throughout the process, you are expected to:
-- Explain your decisions towards methods used for gathering, assessing, cleaning, storing, and answering the research question.
-- Write code comments to enhance readability.
-
 
 
 ## Getting Started
